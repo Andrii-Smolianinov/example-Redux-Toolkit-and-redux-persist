@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/example-Redux-Toolkit-and-redux-persist/static/css/main.e6c13ad2.css",
+    "main.js": "/example-Redux-Toolkit-and-redux-persist/static/js/main.563b1be5.js",
+    "index.html": "/example-Redux-Toolkit-and-redux-persist/index.html",
+    "main.e6c13ad2.css.map": "/example-Redux-Toolkit-and-redux-persist/static/css/main.e6c13ad2.css.map",
+    "main.563b1be5.js.map": "/example-Redux-Toolkit-and-redux-persist/static/js/main.563b1be5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.563b1be5.js"
+  ]
+}
